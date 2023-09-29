@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 06:32:35</sys_created_on>
+        <sys_id>07dda0b3471571105a2fda97436d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_07dda0b3471571105a2fda97436d43bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 06:32:35</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>80e04268db855194f492c597059619fc</instance_id>
+        <instance_name>dev130488</instance_name>
+        <name>sys_number_07dda0b3471571105a2fda97436d43bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category><maximum_digits>6</maximum_digits><number>2000</number><prefix>NI</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-22 06:32:35</sys_created_on><sys_id>07dda0b3471571105a2fda97436d43bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NI</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_number_07dda0b3471571105a2fda97436d43bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-22 06:32:35</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1020743342</payload_hash>
+        <record_name>NI</record_name>
+        <reverted_from/>
+        <source>916ce07f47d171105a2fda97436d4338</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 06:32:35</sys_created_on>
+        <sys_id>4fdda0b3471571105a2fda97436d43c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abb97167d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 06:32:35</sys_updated_on>
+        <type>Number</type>
+        <update_guid>83dda0b3e515711061d1cf570d4ecfc2</update_guid>
+        <update_guid_history>83dda0b3e515711061d1cf570d4ecfc2:-1020743342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-22 06:39:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>57b40655a55c4b08a50540820258d640</sys_id>
+        <sys_metadata>07dda0b3471571105a2fda97436d43bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">245d6873471571105a2fda97436d43e5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_number_07dda0b3471571105a2fda97436d43bb</sys_update_name>
+        <sys_update_version display_value="sys_number_07dda0b3471571105a2fda97436d43bb">4fdda0b3471571105a2fda97436d43c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-22 06:39:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
